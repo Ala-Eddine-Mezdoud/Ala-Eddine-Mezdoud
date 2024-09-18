@@ -1,6 +1,7 @@
 <h2 align="left">Hi 👋! I'm Mezdoud Ala Eddine</h2>
 <h2 align="left">Student at the national school of Artificial intelligence | Frontend Developer | have expertise in C++, Python, and Object-Oriented Programming from Algeria.</h2>
 
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -52,9 +53,5 @@
 ###
 
 <img src="https://raw.githubusercontent.com/Ala-Eddine-Mezdoud/Ala-Eddine-Mezdoud/output/snake.svg" alt="Snake animation" />
-
-###
-###
-
 
 ###
