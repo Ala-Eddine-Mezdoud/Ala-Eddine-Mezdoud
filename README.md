@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! I'm Mezdoud Ala Eddine</h2>
-<h2 align="left">Student at the national school of Artificial intelligence | Frontend Developer | have expertise in C++, Python, and Object-Oriented Programming from Algeria.</h2>
+<h2 align="left">Student at the national school of Artificial intelligence | Full stack Developer  | have expertise Web and App dev , Data Sience and computer sience from Algeria.</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ala-Eddine-Mezdoud&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
