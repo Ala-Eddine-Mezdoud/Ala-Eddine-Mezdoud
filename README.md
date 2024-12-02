@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="194" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+<img align="right" height="194" src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMxMzAwMjgsIm5iZiI6MTczMzEyOTcyOCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjAyVDA4NTUyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM0YThkYzBmMTE1MDI1ZTAxZTlhZmE1NTdiZDY2YWUzZGY0YzUwZjQ0ODY1MjU1ZTJhNDAwZGFmNzUyMWU1NzAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.OnpBo9Dp6LOt8ffFV_UKBZJUA_rhvaM1qklzRP_f19Q"  />
 
 ###
 
@@ -64,11 +64,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Ala-Eddine-Mezdoud/Ala-Eddine-Mezdoud/output/snake.svg" alt="Snake animation" />
 
 ###
