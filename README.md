@@ -13,13 +13,6 @@ I design and build **production-grade software powered by AI** — from scalable
 
 ---
 
-### 🔹 Current Focus
-- AI-powered SaaS & automation tools  
-- FinTech & data-driven systems  
-- Applied machine learning (end-to-end)  
-
----
-
 ### 🔹 Tech Stack
 **Frontend:** Next.js, React, TailwindCSS, GSAP  
 **Backend:** Hono js , Flask , Express js  
