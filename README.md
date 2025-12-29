@@ -1,5 +1,5 @@
 <h1 align="left">Mezdoud Ala Eddine</h1>
-<h3 align="left">Full-Stack Engineer</h3>
+<h3 align="left">Full-Stack Engineer • AI-Powered Software</h3>
 
 I design and build **production-grade software powered by AI** — from scalable web platforms to applied machine learning systems.
 
